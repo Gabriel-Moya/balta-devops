@@ -1,0 +1,12 @@
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\bin\Debug\net7.0\MoneyExtension.deps.json
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\bin\Debug\net7.0\MoneyExtension.dll
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\bin\Debug\net7.0\MoneyExtension.pdb
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.csproj.AssemblyReference.cache
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.AssemblyInfoInputs.cache
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.AssemblyInfo.cs
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.csproj.CoreCompileInputs.cache
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.dll
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\refint\MoneyExtension.dll
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\MoneyExtension.pdb
+C:\dev\Gabriel\balta-devops\MoneyExtension\MoneyExtension\obj\Debug\net7.0\ref\MoneyExtension.dll
